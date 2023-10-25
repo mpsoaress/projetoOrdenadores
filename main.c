@@ -77,7 +77,8 @@ int main(){
     FILE* arquivo;
     int* vetor;
     clock_t inicio, fim;
-    printf("#############METODOS DE ORDENACAO#############");
+    system("cls");
+    printf("#############METODOS DE ORDENACAO#############\n");
     do{
         printf("Escolha uma opcao: \n");
         printf("1- Gerar arquivos\n");
